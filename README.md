@@ -41,7 +41,11 @@
 ## 최신 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-_뉴스를 불러오는 중입니다._
+- [Jev: How to use it for better, faster, and cheaper user decisions in UX](https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f7?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
+- [Why designers need to stop reporting and start recommending at work](https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
+- [How apps know us better than we do and influence our decisions](https://uxdesign.cc/how-apps-know-us-better-than-we-do-and-influence-our-decisions-f7a5182be6f1?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
+- [Is Meta’s new AI agent easier to trust because it’s cute?](https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?source=rss----138adf9c44c---4) · UX Collective · 2026-10-05
+- [AI skill atrophy: Are we forgetting how to think?](https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4) · UX Collective · 2026-10-05
 <!-- DESIGN_NEWS:END -->
 
 ## 사용하는 도구
