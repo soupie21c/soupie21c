@@ -2,7 +2,9 @@ from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from html import unescape
 from pathlib import Path
+import json
 import re
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
@@ -16,6 +18,7 @@ KEYWORDS = ("ux", "user", "design", "product", "interface", "research", "accessi
 EXCLUDED = ("wallpaper", "desktop wallpaper", "job board")
 START = "<!-- DESIGN_NEWS:START -->"
 END = "<!-- DESIGN_NEWS:END -->"
+USER_AGENT = "soupie21c-profile-news/1.0"
 
 
 def text_of(parent, name):
@@ -23,8 +26,25 @@ def text_of(parent, name):
     return unescape(element.text or "").strip() if element is not None else ""
 
 
+def translate_title(title):
+    query = urllib.parse.urlencode({"q": title, "langpair": "en|ko"})
+    request = urllib.request.Request(
+        f"https://api.mymemory.translated.net/get?{query}",
+        headers={"User-Agent": USER_AGENT},
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=15) as response:
+            result = json.loads(response.read().decode("utf-8"))
+        translated = result.get("responseData", {}).get("translatedText", "").strip()
+        if result.get("responseStatus") == 200 and translated and not translated.startswith("MYMEMORY WARNING"):
+            return unescape(translated)
+    except Exception as error:
+        print(f"Could not translate article title: {error}")
+    return title
+
+
 def fetch_feed(url, source, broad):
-    request = urllib.request.Request(url, headers={"User-Agent": "soupie21c-profile-news/1.0"})
+    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(request, timeout=20) as response:
         root = ET.fromstring(response.read())
 
@@ -64,7 +84,8 @@ def main():
 
     lines = []
     for published, title, link, source in articles:
-        safe_title = title.replace("[", "\\[").replace("]", "\\]")
+        korean_title = translate_title(title)
+        safe_title = korean_title.replace("[", "\\[").replace("]", "\\]")
         date = published.astimezone(timezone.utc).strftime("%Y-%m-%d")
         lines.append(f"- [{safe_title}]({link}) · {source} · {date}")
 
