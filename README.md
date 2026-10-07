@@ -1,35 +1,49 @@
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/soupie21c/soupie21c/main/assets/profile-cover.svg" alt="Sooji - UI/UX Designer, dark editorial cover" />
+</p>
 
-<img src="https://img.shields.io/badge/%EC%88%98%EC%A7%80%EB%A1%9C%EC%9A%B4%EC%83%9D%ED%99%9C-AI%20%26%20CODE%20%7C%20LEARNING%20BY%20BUILDING-167D8D?style=for-the-badge&labelColor=123B5D" alt="수지로운생활 | AI & CODE | LEARNING BY BUILDING" />
+<p align="center"><sub>UI / UX DESIGNER &nbsp; · &nbsp; SPACE DESIGN PERSPECTIVE</sub></p>
 
-<sub>INDEPENDENT DESIGN JOURNAL &nbsp; / &nbsp; VOL. 01 &nbsp; / &nbsp; 2026</sub>
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/38c9a3/soupie21c" alt="GitHub contribution activity for soupie21c" />
+</p>
 
-<h1>사람의 맥락을 읽고,<br />경험을 설계합니다.</h1>
+### Currently
 
-<p>UI / UX DESIGNER &nbsp; · &nbsp; <sub>공간 디자인에서 시작된 시선</sub></p>
+- Designing **Prompt Camp to Academy** — a guided learning experience for AI literacy.
+- Exploring **Damoa AI** — multi-model answer comparison as a Codyssey assignment.
+- Collecting daily notes on interface, product and service design.
 
-</div>
+### Focus
 
----
+<table>
+  <tbody>
+    <tr>
+      <td width="50%"><strong>AI & Learning</strong><br /><sub>Turning complex AI tools into approachable learning journeys.</sub></td>
+      <td width="50%"><strong>UX Research</strong><br /><sub>Finding the context behind user needs and behavior.</sub></td>
+    </tr>
+    <tr>
+      <td width="50%"><strong>Digital Products</strong><br /><sub>Connecting flows, content and interaction into clear services.</sub></td>
+      <td width="50%"><strong>Spatial Thinking</strong><br /><sub>Bringing a space-design perspective into digital experiences.</sub></td>
+    </tr>
+  </tbody>
+</table>
+
+### Launched
+
+<sub>01 &nbsp; / &nbsp; PERSONAL PROJECT &nbsp; / &nbsp; AI LEARNING</sub>
+
+#### [Prompt Camp to Academy](https://github.com/soupie21c/final-project)
+
+Quest-based prompt learning, supported by AI mentors and tailored practice.
 
 <p align="center">
   <a href="https://github.com/soupie21c/final-project">
-    <img width="100%" src="https://raw.githubusercontent.com/soupie21c/final-project/main/assets/bg_academy.jpg" alt="Prompt Camp to Academy의 판타지 아카데미 배경" />
+    <img width="100%" src="https://raw.githubusercontent.com/soupie21c/final-project/main/assets/bg_academy.jpg" alt="Prompt Camp to Academy project world" />
   </a>
 </p>
 
-<sub>FEATURE STORY &nbsp; / &nbsp; 01 &nbsp; · &nbsp; PRODUCT DESIGN / AI LEARNING</sub>
-
-## [Prompt Camp to Academy](https://github.com/soupie21c/final-project)
-
-퀘스트와 AI 멘토를 통해 프롬프트를 익히는 학습 경험을 설계했습니다.  
-<a href="https://github.com/soupie21c/final-project">VIEW PROJECT &#8599;</a>
-
----
-
-<sub>THE DAILY EDITION &nbsp; / &nbsp; DIGITAL DESIGN</sub>
-
-## 오늘의 UI/UX 뉴스
+### Daily Reading &nbsp; / &nbsp; UI/UX News
 
 <!-- DESIGN_NEWS:START -->
 - [Jev: How to use it for better, faster, and cheaper user decisions in UX](https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f7?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
@@ -37,12 +51,12 @@
 - [How apps know us better than we do and influence our decisions](https://uxdesign.cc/how-apps-know-us-better-than-we-do-and-influence-our-decisions-f7a5182be6f1?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
 <!-- DESIGN_NEWS:END -->
 
----
+### Coursework
 
 <details>
-<summary>CODEYSSEY &nbsp; / &nbsp; 과제 12개</summary>
+<summary>Codyssey &nbsp; / &nbsp; 12 assignments</summary>
 
-- [Damoa AI](https://github.com/soupie21c/damoa-ai) — 여러 AI의 답변을 한곳에서 비교하는 서비스
+- [Damoa AI](https://github.com/soupie21c/damoa-ai) — multi-model answer comparison
 - [M1-1](https://github.com/soupie21c/M1-1)
 - [M2-1](https://github.com/soupie21c/M2-1)
 - [A1-1](https://github.com/soupie21c/A1-1)
@@ -57,14 +71,8 @@
 
 </details>
 
----
+### Toolkit
 
-<sub>STUDIO NOTES &nbsp; / &nbsp; TOOLS</sub>
-
-<table>
-  <tbody>
-    <tr><td><sub>DESIGN</sub></td><td>Figma</td></tr>
-    <tr><td><sub>DEVELOPMENT</sub></td><td>Python · Streamlit · JavaScript · React · Next.js · Node.js · HTML · CSS</td></tr>
-    <tr><td><sub>AI & COLLABORATION</sub></td><td>OpenAI · Claude · Gemini · ChatGPT · Vercel · GitHub</td></tr>
-  </tbody>
-</table>
+**Design** &nbsp; Figma  
+**Build** &nbsp; Python · Streamlit · JavaScript · React · Next.js · Node.js · HTML · CSS  
+**AI & Deploy** &nbsp; OpenAI · Claude · Gemini · ChatGPT · Vercel · GitHub
