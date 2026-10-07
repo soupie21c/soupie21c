@@ -1,62 +1,50 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/soupie21c/soupie21c/main/assets/profile-cover.svg" alt="Sooji - UI/UX Designer, dark editorial cover" />
+  <img width="100%" src="https://raw.githubusercontent.com/soupie21c/soupie21c/main/assets/profile-cover.svg" alt="수지로운생활 - UI/UX 디자이너 프로필 커버" />
 </p>
 
-<p align="center"><sub>UI / UX DESIGNER &nbsp; · &nbsp; SPACE DESIGN PERSPECTIVE</sub></p>
+### 현재
 
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/38c9a3/soupie21c" alt="GitHub contribution activity for soupie21c" />
-</p>
+- **Prompt Camp to Academy** — AI 문해력을 위한 단계별 프롬프트 학습 경험을 설계하고 있습니다.
+- **Damoa AI** — 여러 AI 답변을 비교하는 Codyssey 과제입니다.
+- 인터페이스, 제품, 서비스 디자인을 꾸준히 기록합니다.
 
-### Currently
-
-- Designing **Prompt Camp to Academy** — a guided learning experience for AI literacy.
-- Exploring **Damoa AI** — multi-model answer comparison as a Codyssey assignment.
-- Collecting daily notes on interface, product and service design.
-
-### Focus
+### 관심 분야
 
 <table>
   <tbody>
     <tr>
-      <td width="50%"><strong>AI & Learning</strong><br /><sub>Turning complex AI tools into approachable learning journeys.</sub></td>
-      <td width="50%"><strong>UX Research</strong><br /><sub>Finding the context behind user needs and behavior.</sub></td>
+      <td width="50%"><strong>AI와 학습</strong><br /><sub>복잡한 AI 도구를 쉽게 배우고 활용하는 경험</sub></td>
+      <td width="50%"><strong>사용자 리서치</strong><br /><sub>사용자의 행동과 요구 뒤에 있는 맥락 탐색</sub></td>
     </tr>
     <tr>
-      <td width="50%"><strong>Digital Products</strong><br /><sub>Connecting flows, content and interaction into clear services.</sub></td>
-      <td width="50%"><strong>Spatial Thinking</strong><br /><sub>Bringing a space-design perspective into digital experiences.</sub></td>
+      <td width="50%"><strong>디지털 제품</strong><br /><sub>흐름, 콘텐츠, 상호작용을 명확한 서비스로 연결</sub></td>
+      <td width="50%"><strong>공간적 사고</strong><br /><sub>공간 디자인의 시선을 디지털 경험에 적용</sub></td>
     </tr>
   </tbody>
 </table>
 
-### Launched
+### 프로젝트
 
-<sub>01 &nbsp; / &nbsp; PERSONAL PROJECT &nbsp; / &nbsp; AI LEARNING</sub>
+<sub>01 &nbsp; / &nbsp; 개인 프로젝트 &nbsp; / &nbsp; AI 학습</sub>
 
 #### [Prompt Camp to Academy](https://github.com/soupie21c/final-project)
 
-Quest-based prompt learning, supported by AI mentors and tailored practice.
+AI 멘토와 맞춤형 퀘스트로 프롬프트를 익히는 학습 플랫폼입니다.
 
-<p align="center">
-  <a href="https://github.com/soupie21c/final-project">
-    <img width="100%" src="https://raw.githubusercontent.com/soupie21c/final-project/main/assets/bg_academy.jpg" alt="Prompt Camp to Academy project world" />
-  </a>
-</p>
-
-### Daily Reading &nbsp; / &nbsp; UI/UX News
+### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [Jev: How to use it for better, faster, and cheaper user decisions in UX](https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f7?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
-- [Why designers need to stop reporting and start recommending at work](https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
-- [How apps know us better than we do and influence our decisions](https://uxdesign.cc/how-apps-know-us-better-than-we-do-and-influence-our-decisions-f7a5182be6f1?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
+- [UX에서 더 빠르고 나은 사용자 의사결정을 돕는 방법](https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f7?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
+- [디자이너는 보고를 멈추고 업무에서 제안해야 합니다](https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
+- [앱은 어떻게 우리보다 우리를 더 잘 알고 선택에 영향을 미칠까요](https://uxdesign.cc/how-apps-know-us-better-than-we-do-and-influence-our-decisions-f7a5182be6f1?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
 <!-- DESIGN_NEWS:END -->
 
-### Coursework
+### 과제
 
 <details>
-<summary>Codyssey &nbsp; / &nbsp; 12 assignments</summary>
+<summary>Codyssey 과제 12개</summary>
 
-- [Damoa AI](https://github.com/soupie21c/damoa-ai) — multi-model answer comparison
+- [Damoa AI](https://github.com/soupie21c/damoa-ai) — 여러 AI의 답변 비교
 - [M1-1](https://github.com/soupie21c/M1-1)
 - [M2-1](https://github.com/soupie21c/M2-1)
 - [A1-1](https://github.com/soupie21c/A1-1)
@@ -71,8 +59,8 @@ Quest-based prompt learning, supported by AI mentors and tailored practice.
 
 </details>
 
-### Toolkit
+### 사용 도구
 
-**Design** &nbsp; Figma  
-**Build** &nbsp; Python · Streamlit · JavaScript · React · Next.js · Node.js · HTML · CSS  
-**AI & Deploy** &nbsp; OpenAI · Claude · Gemini · ChatGPT · Vercel · GitHub
+**디자인** &nbsp; Figma  
+**개발** &nbsp; Python · Streamlit · JavaScript · React · Next.js · Node.js · HTML · CSS  
+**AI와 배포** &nbsp; OpenAI · Claude · Gemini · ChatGPT · Vercel · GitHub
