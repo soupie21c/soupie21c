@@ -34,9 +34,9 @@ AI 멘토와 맞춤형 퀘스트로 프롬프트를 익히는 학습 플랫폼�
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [UX에서 더 빠르고 나은 사용자 의사결정을 돕는 방법](https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f7?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
-- [디자이너는 보고를 멈추고 업무에서 제안해야 합니다](https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
-- [앱은 어떻게 우리보다 우리를 더 잘 알고 선택에 영향을 미칠까요](https://uxdesign.cc/how-apps-know-us-better-than-we-do-and-influence-our-decisions-f7a5182be6f1?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
+- [JEV: UX에서 더 빠르고 저렴하게 사용자 결정을 내리는 데 사용하는 방법](https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f7?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
+- [디자이너가 보고를 중단하고 직장에서 추천을 시작해야 하는 이유](https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
+- [앱이 우리보다 우리를 더 잘 알고 결정에 영향을 미치는 방법](https://uxdesign.cc/how-apps-know-us-better-than-we-do-and-influence-our-decisions-f7a5182be6f1?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
 <!-- DESIGN_NEWS:END -->
 
 ### 과제
