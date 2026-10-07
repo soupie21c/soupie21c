@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&text=%EC%88%98%EC%A7%80%EB%A1%9C%EC%9A%B4%EC%83%9D%ED%99%9C&fontSize=42&fontColor=ffffff&desc=AI%20%26%20CODE%20%7C%20LEARNING%20BY%20BUILDING&descAlignY=72&color=0:123B5D,100:167D8D" alt="수지로운생활 - AI와 코드로 배우고 만드는 중" />
+<img src="https://img.shields.io/badge/%EC%88%98%EC%A7%80%EB%A1%9C%EC%9A%B4%EC%83%9D%ED%99%9C-AI%20%26%20CODE%20%7C%20LEARNING%20BY%20BUILDING-167D8D?style=for-the-badge&labelColor=123B5D" alt="수지로운생활 | AI & CODE | LEARNING BY BUILDING" />
 
 ### AI와 코드로 배운 것을, 직접 쓰는 서비스로 만듭니다.
 
