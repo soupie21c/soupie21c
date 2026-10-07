@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/%EC%88%98%EC%A7%80%EB%A1%9C%EC%9A%B4%EC%83%9D%ED%99%9C-AI%20%26%20CODE%20%7C%20LEARNING%20BY%20BUILDING-167D8D?style=for-the-badge&labelColor=123B5D" alt="수지로운생활 | AI & CODE | LEARNING BY BUILDING" />
 
-### UI/UX 디자인으로 사람에게 더 나은 경험을 만듭니다.
+### UI/UX 디자인으로 사람들에게 더 나은 경험을 만듭니다.
 
 `UI/UX 디자인` · `사용자 경험`
 
