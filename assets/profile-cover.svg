@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title description">
+  <title id="title">Sooji, UI/UX Designer</title>
+  <desc id="description">A dark editorial profile cover with a teal accent and Korean design statement.</desc>
+  <rect width="1200" height="440" fill="#11191d" />
+  <path d="M0 0H1200V8H0z" fill="#38c9a3" />
+  <text x="72" y="80" fill="#9caeaa" font-family="Arial, sans-serif" font-size="17">SOOJI  /  DESIGN JOURNAL  /  2026</text>
+  <text x="72" y="178" fill="#f3f5f2" font-family="Arial, sans-serif" font-size="59" font-weight="700">사람의 맥락을 읽고,</text>
+  <text x="72" y="254" fill="#38c9a3" font-family="Arial, sans-serif" font-size="59" font-weight="700">경험을 설계합니다.</text>
+  <line x1="72" y1="296" x2="625" y2="296" stroke="#38c9a3" stroke-width="3" />
+  <text x="72" y="348" fill="#f3f5f2" font-family="Arial, sans-serif" font-size="18">UI / UX DESIGNER</text>
+  <text x="72" y="382" fill="#9caeaa" font-family="Arial, sans-serif" font-size="16">공간 디자인에서 시작된 시선</text>
+  <line x1="792" y1="66" x2="792" y2="374" stroke="#344246" stroke-width="1" />
+  <text x="842" y="112" fill="#9caeaa" font-family="Arial, sans-serif" font-size="14">DESIGN PRINCIPLES</text>
+  <text x="842" y="175" fill="#f3f5f2" font-family="Arial, sans-serif" font-size="22">01  Observe</text>
+  <line x1="842" y1="194" x2="1127" y2="194" stroke="#344246" stroke-width="1" />
+  <text x="842" y="244" fill="#f3f5f2" font-family="Arial, sans-serif" font-size="22">02  Frame</text>
+  <line x1="842" y1="263" x2="1127" y2="263" stroke="#344246" stroke-width="1" />
+  <text x="842" y="313" fill="#f3f5f2" font-family="Arial, sans-serif" font-size="22">03  Refine</text>
+  <text x="842" y="368" fill="#38c9a3" font-family="Arial, sans-serif" font-size="13">PEOPLE FIRST, ALWAYS</text>
+</svg>
