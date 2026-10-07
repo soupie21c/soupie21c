@@ -58,7 +58,7 @@ def main():
             print(f"Could not read {source}: {error}")
 
     articles.sort(key=lambda article: article[0], reverse=True)
-    articles = articles[:5]
+    articles = articles[:3]
     if not articles:
         raise SystemExit("No news articles found; leaving README unchanged.")
 
