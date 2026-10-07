@@ -1,42 +1,52 @@
 <div align="center">
 
-<sub>UI / UX DESIGNER</sub>
+<img src="https://img.shields.io/badge/%EC%88%98%EC%A7%80%EB%A1%9C%EC%9A%B4%EC%83%9D%ED%99%9C-AI%20%26%20CODE%20%7C%20LEARNING%20BY%20BUILDING-167D8D?style=for-the-badge&labelColor=123B5D" alt="수지로운생활 | AI & CODE | LEARNING BY BUILDING" />
 
-# 사람의 맥락을 읽고, 경험을 설계합니다.
+<sub>INDEPENDENT DESIGN JOURNAL &nbsp; / &nbsp; VOL. 01 &nbsp; / &nbsp; 2026</sub>
 
-<sub>공간 디자인에서 시작된 시선</sub>
+<h1>사람의 맥락을 읽고,<br />경험을 설계합니다.</h1>
+
+<p>UI / UX DESIGNER &nbsp; · &nbsp; <sub>공간 디자인에서 시작된 시선</sub></p>
 
 </div>
 
 ---
 
-## 개인 프로젝트
-
-<sub>01 / AI LEARNING</sub>
-
-### [Prompt Camp to Academy](https://github.com/soupie21c/final-project)
-퀘스트와 AI 멘토로 프롬프트를 익히는 학습 플랫폼
-
-<sub>02 / AI PRODUCT</sub>
-
-### [Damoa AI](https://github.com/soupie21c/damoa-ai)
-여러 AI의 답변을 한곳에서 비교하는 서비스
+<table>
+  <tbody>
+    <tr>
+      <td width="54%" valign="middle">
+        <p><sub>FEATURE STORY &nbsp; / &nbsp; 01</sub></p>
+        <h2><a href="https://github.com/soupie21c/final-project">Prompt Camp to Academy</a></h2>
+        <p>퀘스트와 AI 멘토를 통해 프롬프트를 익히는 학습 경험을 설계했습니다.</p>
+        <p><sub>PRODUCT DESIGN &nbsp; · &nbsp; AI LEARNING</sub></p>
+        <p><a href="https://github.com/soupie21c/final-project">VIEW PROJECT &#8599;</a></p>
+      </td>
+      <td width="46%" valign="top">
+        <a href="https://github.com/soupie21c/final-project">
+          <img width="100%" src="https://raw.githubusercontent.com/soupie21c/final-project/main/assets/bg_academy.jpg" alt="Prompt Camp to Academy의 판타지 아카데미 배경" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
+
+<sub>THE DAILY EDITION &nbsp; / &nbsp; DIGITAL DESIGN</sub>
 
 ## 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [Jev: How to use it for better, faster, and cheaper user decisions in UX](https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f7?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
-- [Why designers need to stop reporting and start recommending at work](https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
-- [How apps know us better than we do and influence our decisions](https://uxdesign.cc/how-apps-know-us-better-than-we-do-and-influence-our-decisions-f7a5182be6f1?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
+_최신 기사를 불러오는 중입니다._
 <!-- DESIGN_NEWS:END -->
 
 ---
 
 <details>
-<summary>Codyssey 과제 11개</summary>
+<summary>CODEYSSEY &nbsp; / &nbsp; 과제 12개</summary>
 
+- [Damoa AI](https://github.com/soupie21c/damoa-ai) — 여러 AI의 답변을 한곳에서 비교하는 서비스
 - [M1-1](https://github.com/soupie21c/M1-1)
 - [M2-1](https://github.com/soupie21c/M2-1)
 - [A1-1](https://github.com/soupie21c/A1-1)
@@ -53,8 +63,12 @@
 
 ---
 
-## 도구
+<sub>STUDIO NOTES &nbsp; / &nbsp; TOOLS</sub>
 
-**디자인**  Figma  
-**개발**  Python · Streamlit · JavaScript · React · Next.js · Node.js · HTML · CSS  
-**AI · 협업**  OpenAI · Claude · Gemini · ChatGPT · Vercel · GitHub
+<table>
+  <tbody>
+    <tr><td><sub>DESIGN</sub></td><td>Figma</td></tr>
+    <tr><td><sub>DEVELOPMENT</sub></td><td>Python · Streamlit · JavaScript · React · Next.js · Node.js · HTML · CSS</td></tr>
+    <tr><td><sub>AI & COLLABORATION</sub></td><td>OpenAI · Claude · Gemini · ChatGPT · Vercel · GitHub</td></tr>
+  </tbody>
+</table>
