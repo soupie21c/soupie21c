@@ -12,24 +12,18 @@
 
 ---
 
-<table>
-  <tbody>
-    <tr>
-      <td width="54%" valign="middle">
-        <p><sub>FEATURE STORY &nbsp; / &nbsp; 01</sub></p>
-        <h2><a href="https://github.com/soupie21c/final-project">Prompt Camp to Academy</a></h2>
-        <p>퀘스트와 AI 멘토를 통해 프롬프트를 익히는 학습 경험을 설계했습니다.</p>
-        <p><sub>PRODUCT DESIGN &nbsp; · &nbsp; AI LEARNING</sub></p>
-        <p><a href="https://github.com/soupie21c/final-project">VIEW PROJECT &#8599;</a></p>
-      </td>
-      <td width="46%" valign="top">
-        <a href="https://github.com/soupie21c/final-project">
-          <img width="100%" src="https://raw.githubusercontent.com/soupie21c/final-project/main/assets/bg_academy.jpg" alt="Prompt Camp to Academy의 판타지 아카데미 배경" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <a href="https://github.com/soupie21c/final-project">
+    <img width="100%" src="https://raw.githubusercontent.com/soupie21c/final-project/main/assets/bg_academy.jpg" alt="Prompt Camp to Academy의 판타지 아카데미 배경" />
+  </a>
+</p>
+
+<sub>FEATURE STORY &nbsp; / &nbsp; 01 &nbsp; · &nbsp; PRODUCT DESIGN / AI LEARNING</sub>
+
+## [Prompt Camp to Academy](https://github.com/soupie21c/final-project)
+
+퀘스트와 AI 멘토를 통해 프롬프트를 익히는 학습 경험을 설계했습니다.  
+<a href="https://github.com/soupie21c/final-project">VIEW PROJECT &#8599;</a>
 
 ---
 
