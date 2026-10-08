@@ -5,7 +5,8 @@
 ### 현재
 
 - K3I에서 디발자 공부중
-<img width="355" height="357" alt="6" src="https://github.com/user-attachments/assets/ed746e66-ffe3-4b14-9981-2c8ead66b54a" />
+<img width="178" height="179" alt="6" src="https://github.com/user-attachments/assets/c9fff25c-33e6-4c04-a510-979c05829216" />
+
 
 - Codyssey 과제중
 
