@@ -5,20 +5,9 @@
 ### 현재
 
 - K3I에서 디발자 공부중
- <img width="709" height="713" alt="6" src="https://github.com/user-attachments/assets/022dc916-7fe3-4c68-ae39-273c5f5fdb7e" />
+<img width="355" height="357" alt="6" src="https://github.com/user-attachments/assets/ed746e66-ffe3-4b14-9981-2c8ead66b54a" />
 
 - Codyssey 과제중
-
-
-### 프로젝트
-
-<sub>01 &nbsp; / &nbsp; 개인 프로젝트 &nbsp; / &nbsp; AI 학습</sub>
-
-#### [Prompt Camp to Academy](https://github.com/soupie21c/final-project)
-
-AI 멘토와 맞춤형 퀘스트로 프롬프트를 익히는 학습 플랫폼입니다.
-
-
 
 ### 사용 도구
 
