@@ -4,11 +4,12 @@
 
 ### 현재
 
-- K3I에서 디발자 공부중
+- K3I에서 디발자 공부중 
 <img width="178" height="179" alt="6" src="https://github.com/user-attachments/assets/c9fff25c-33e6-4c04-a510-979c05829216" />
 
-
 - Codyssey 과제중
+<img width="178" height="179" alt="Frame 1943243201" src="https://github.com/user-attachments/assets/c6005cdc-8737-4dcf-8e9f-7f10cedf61ca" />
+
 
 ### 사용 도구
 
