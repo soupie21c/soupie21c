@@ -4,9 +4,10 @@
 
 ### 현재
 
-- **Prompt Camp to Academy** — AI 문해력을 위한 단계별 프롬프트 학습 경험을 설계하고 있습니다.
-- **Damoa AI** — 여러 AI 답변을 비교하는 Codyssey 과제입니다.
-- 인터페이스, 제품, 서비스 디자인을 꾸준히 기록합니다.
+- K3I에서 디발자 공부중
+ <img width="709" height="713" alt="6" src="https://github.com/user-attachments/assets/022dc916-7fe3-4c68-ae39-273c5f5fdb7e" />
+
+- Codyssey 과제중
 
 
 ### 프로젝트
@@ -17,25 +18,7 @@
 
 AI 멘토와 맞춤형 퀘스트로 프롬프트를 익히는 학습 플랫폼입니다.
 
-### 과제
 
-<details>
-<summary>Codyssey 과제 12개</summary>
-
-- [Damoa AI](https://github.com/soupie21c/damoa-ai) — 여러 AI의 답변 비교
-- [M1-1](https://github.com/soupie21c/M1-1)
-- [M2-1](https://github.com/soupie21c/M2-1)
-- [A1-1](https://github.com/soupie21c/A1-1)
-- [A1-2](https://github.com/soupie21c/A1-2)
-- [A1-3](https://github.com/soupie21c/A1-3)
-- [A2-1](https://github.com/soupie21c/A2-1)
-- [B2-1](https://github.com/soupie21c/B2-1)
-- [C1-1](https://github.com/soupie21c/C1-1)
-- [c1-2](https://github.com/soupie21c/c1-2)
-- [C1-3](https://github.com/soupie21c/C1-3)
-- [ia-Codyssey](https://github.com/soupie21c/ia-Codyssey)
-
-</details>
 
 ### 사용 도구
 
