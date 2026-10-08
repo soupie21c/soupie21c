@@ -4,7 +4,7 @@
 
 ### 현재
 
-- K3I에서 디발자 공부중 
+- K3I 디발자 공부중 
 <img width="178" height="179" alt="6" src="https://github.com/user-attachments/assets/c9fff25c-33e6-4c04-a510-979c05829216" />
 
 - Codyssey 과제중
