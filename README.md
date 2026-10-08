@@ -12,11 +12,11 @@
 
 ### 사용 도구
 
- **디자인** &nbsp; Figma · Adobe Photoshop · Adobe Illustrator · AutoCAD · ketchUp · Enscape
+-  **디자인** &nbsp; Figma · Adobe Photoshop · Adobe Illustrator · AutoCAD · ketchUp · Enscape
 
- **개발** &nbsp; Python · Streamlit · JavaScript · React · Next.js · Node.js · HTML · CSS  
+-  **개발** &nbsp; Python · Streamlit · JavaScript · React · Next.js · Node.js · HTML · CSS  
 
- **AI와 배포** &nbsp; OpenAI · Claude · Gemini · ChatGPT · Vercel · GitHub
+-  **AI와 배포** &nbsp; OpenAI · Claude · Gemini · ChatGPT · Vercel · GitHub
 
 
 ### 오늘의 UI/UX 뉴스
