@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [제한된 위임: AI는 얼마나 많은 권한을 가져야 합니까?](https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192?source=rss----138adf9c44c---4) · UX Collective · 2026-10-07
-- [연속과 넛지를 넘어서: 윤리적 게임화 및 AI 디자인](https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4) · UX Collective · 2026-10-07
-- [JEV: UX에서 더 빠르고 저렴하게 사용자 결정을 내리는 데 사용하는 방법](https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f7?source=rss----138adf9c44c---4) · UX Collective · 2026-10-06
+- [테슬러의 법칙: 복잡성이 여정의 다른 부분으로 이동함](https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490?source=rss----138adf9c44c---4) · UX Collective · 2026-10-08
+- [합성 사용자가 (실제로) UX 연구의 미래입니까?](https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec?source=rss----138adf9c44c---4) · UX Collective · 2026-10-08
+- [합성 사용자가 "불완전한 연구" 를 다시 생각하게 만들고 있습니다.](https://uxdesign.cc/synthetic-users-are-making-me-rethink-imperfect-research-abbadb8ec082?source=rss----138adf9c44c---4) · UX Collective · 2026-10-08
 <!-- DESIGN_NEWS:END -->
 
 
