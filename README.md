@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [아이디어가 존재하기 전에 디자인하기](https://uxdesign.cc/designing-for-an-idea-before-it-exists-ecd8cb19999a?source=rss----138adf9c44c---4) · UX Collective · 2026-10-09
-- [테슬러의 법칙: 복잡성이 여정의 다른 부분으로 이동함](https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490?source=rss----138adf9c44c---4) · UX Collective · 2026-10-08
-- [합성 사용자가 (실제로) UX 연구의 미래입니까?](https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec?source=rss----138adf9c44c---4) · UX Collective · 2026-10-08
+- [비밀 요원 봇: 상담원이 보이지 않더라도 접근성이 중요합니다.](https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4) · UX Collective · 2026-10-12
+- [AI가 디자인의 한가운데를 비우고 모래시계를 남기고 있습니다.](https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4) · UX Collective · 2026-10-12
+- [M.F. 후세인과 오렌지 색상의 여러 의미에 대해](https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-orange-bf4b1a6f5504?source=rss----138adf9c44c---4) · UX Collective · 2026-10-12
 <!-- DESIGN_NEWS:END -->
 
 
