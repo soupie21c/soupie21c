@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [비밀 요원 봇: 상담원이 보이지 않더라도 접근성이 중요합니다.](https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4) · UX Collective · 2026-10-12
-- [AI가 디자인의 한가운데를 비우고 모래시계를 남기고 있습니다.](https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4) · UX Collective · 2026-10-12
-- [M.F. 후세인과 오렌지 색상의 여러 의미에 대해](https://uxdesign.cc/on-m-f-husain-and-multiple-meanings-of-the-colour-orange-bf4b1a6f5504?source=rss----138adf9c44c---4) · UX Collective · 2026-10-12
+- [취향은 디자인 방법론이 아닙니다](https://uxdesign.cc/taste-is-not-a-design-methodology-e02b37aea148?source=rss----138adf9c44c---4) · UX Collective · 2026-10-13
+- [종이에 더 심하게 보이는 디자인에 대해 이야기하는 방법](https://uxdesign.cc/how-to-talk-about-a-design-that-looks-worse-on-paper-da73da6d7b57?source=rss----138adf9c44c---4) · UX Collective · 2026-10-13
+- [모두가 소유하고 소수가 프로그래밍할 수 있는 신디사이저: AI 설계를 위한 교훈](https://uxdesign.cc/the-synth-everyone-owned-and-few-could-program-a-lesson-for-ai-design-6f618ec2aea0?source=rss----138adf9c44c---4) · UX Collective · 2026-10-13
 <!-- DESIGN_NEWS:END -->
 
 
