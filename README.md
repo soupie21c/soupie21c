@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [취향은 디자인 방법론이 아닙니다](https://uxdesign.cc/taste-is-not-a-design-methodology-e02b37aea148?source=rss----138adf9c44c---4) · UX Collective · 2026-10-13
-- [종이에 더 심하게 보이는 디자인에 대해 이야기하는 방법](https://uxdesign.cc/how-to-talk-about-a-design-that-looks-worse-on-paper-da73da6d7b57?source=rss----138adf9c44c---4) · UX Collective · 2026-10-13
-- [모두가 소유하고 소수가 프로그래밍할 수 있는 신디사이저: AI 설계를 위한 교훈](https://uxdesign.cc/the-synth-everyone-owned-and-few-could-program-a-lesson-for-ai-design-6f618ec2aea0?source=rss----138adf9c44c---4) · UX Collective · 2026-10-13
+- [아무도 당신의 인공지능 앱을 원하지 않습니다](https://uxdesign.cc/nobody-wants-your-ai-app-cff8629064a4?source=rss----138adf9c44c---4) · UX Collective · 2026-10-14
+- [내가 CFO에게 디자인이 왜 중요한지 물었을 때 했던 말](https://uxdesign.cc/what-i-told-the-cfo-when-he-asked-why-design-matters-ceadb07c929e?source=rss----138adf9c44c---4) · UX Collective · 2026-10-14
+- [일을 잘하는 것이 더 나아지는 것을 막을 수 있는 방법](https://uxdesign.cc/how-getting-good-at-your-job-can-stop-you-getting-better-023b6e7637ec?source=rss----138adf9c44c---4) · UX Collective · 2026-10-14
 <!-- DESIGN_NEWS:END -->
 
 
