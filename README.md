@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [휴먼 인 더 루프 (Human in the loop) 는 휴먼이 루프에서 벗어나지 않도록 하는 것을 의미합니다.](https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4) · UX Collective · 2026-10-15
-- [저는 디자이너를 위한 7주간의 AI 워크숍을 진행했습니다 (사실 AI에 관한 것은 아니었습니다).](https://uxdesign.cc/i-ran-a-7-week-ai-workshop-for-designers-that-wasnt-really-about-ai-804035e7b328?source=rss----138adf9c44c---4) · UX Collective · 2026-10-15
-- [누구도 보고서에 귀 기울인다고 느끼지 않습니다.](https://uxdesign.cc/nobody-feels-heard-by-a-report-c5a06d96bc39?source=rss----138adf9c44c---4) · UX Collective · 2026-10-15
+- [공예품을 잃지 않고 AI로 브랜드 기반을 구축하는 방법](https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4) · UX Collective · 2026-10-18
+- [배송하는 재료의 디자인](https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee?source=rss----138adf9c44c---4) · UX Collective · 2026-10-18
+- [천일 동안 즐기는 진귀한 팝콘](https://uxdesign.cc/a-thousand-days-of-stale-popcorn-54f62d06c42b?source=rss----138adf9c44c---4) · UX Collective · 2026-10-18
 <!-- DESIGN_NEWS:END -->
 
 
