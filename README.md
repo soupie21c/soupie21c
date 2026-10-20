@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [공예품을 잃지 않고 AI로 브랜드 기반을 구축하는 방법](https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4) · UX Collective · 2026-10-18
-- [배송하는 재료의 디자인](https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee?source=rss----138adf9c44c---4) · UX Collective · 2026-10-18
-- [천일 동안 즐기는 진귀한 팝콘](https://uxdesign.cc/a-thousand-days-of-stale-popcorn-54f62d06c42b?source=rss----138adf9c44c---4) · UX Collective · 2026-10-18
+- [인간의 관심은 새로운 오래된 병목 현상입니다. 우리는 그것을 위해 더 많은 것을 디자인해야 합니다.](https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a?source=rss----138adf9c44c---4) · UX Collective · 2026-10-19
+- [소리 없이 산신령 연주하기](https://uxdesign.cc/playing-the-sanshin-without-a-sound-3ac88df6f65c?source=rss----138adf9c44c---4) · UX Collective · 2026-10-19
+- [디자인 (여전히) 이 중요한 이유, 맛은 방법론이 아니다, 빌린 슬로프](https://uxdesign.cc/why-design-still-matters-taste-is-not-a-methodology-borrowed-slopes-62701d4c33dc?source=rss----138adf9c44c---4) · UX Collective · 2026-10-19
 <!-- DESIGN_NEWS:END -->
 
 
