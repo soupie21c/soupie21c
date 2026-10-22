@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [인공지능이 평균적인 사용자를 확보할 수 있도록 하기: 사용자 리서치가 나쁜 날에 집중해야 하는 이유](https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4) · UX Collective · 2026-10-20
-- [AI는 직책에 신경 쓰지 않습니다.](https://uxdesign.cc/ai-doesnt-care-about-your-job-title-c08dd4fdf8d8?source=rss----138adf9c44c---4) · UX Collective · 2026-10-20
-- [인간의 관심은 새로운 오래된 병목 현상입니다. 우리는 그것을 위해 더 많은 것을 디자인해야 합니다.](https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a?source=rss----138adf9c44c---4) · UX Collective · 2026-10-19
+- [도구가 있는 창업자는 단서가 있는 창업자가 아닙니다.](https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4) · UX Collective · 2026-10-21
+- [AI를 그 단어로 받아들일 수 있습니까?](https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4) · UX Collective · 2026-10-21
+- [디자인 v ADHD](https://uxdesign.cc/design-vs-adhd-4411c3b81d1b?source=rss----138adf9c44c---4) · UX Collective · 2026-10-21
 <!-- DESIGN_NEWS:END -->
 
 
