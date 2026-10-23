@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
+- [구매 대 빌드는 이제 특히 기업에서 UX 결정이기도 합니다.](https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63?source=rss----138adf9c44c---4) · UX Collective · 2026-10-22
 - [도구가 있는 창업자는 단서가 있는 창업자가 아닙니다.](https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4) · UX Collective · 2026-10-21
 - [AI를 그 단어로 받아들일 수 있습니까?](https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4) · UX Collective · 2026-10-21
-- [디자인 v ADHD](https://uxdesign.cc/design-vs-adhd-4411c3b81d1b?source=rss----138adf9c44c---4) · UX Collective · 2026-10-21
 <!-- DESIGN_NEWS:END -->
 
 
