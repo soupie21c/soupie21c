@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
+- [화면에서 Atomic Design 입력하기](https://uxdesign.cc/entering-atomic-design-from-the-screen-bae744ecc288?source=rss----138adf9c44c---4) · UX Collective · 2026-10-23
+- [초음속의 꿈: 전후 프랑스가 어떻게 미래를 발명하고,](https://uxdesign.cc/supersonic-dreams-how-post-war-france-invented-the-future-and-then-stopped-fe2cb26dc7cc?source=rss----138adf9c44c---4) · UX Collective · 2026-10-23
 - [구매 대 빌드는 이제 특히 기업에서 UX 결정이기도 합니다.](https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63?source=rss----138adf9c44c---4) · UX Collective · 2026-10-22
-- [도구가 있는 창업자는 단서가 있는 창업자가 아닙니다.](https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4) · UX Collective · 2026-10-21
-- [AI를 그 단어로 받아들일 수 있습니까?](https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4) · UX Collective · 2026-10-21
 <!-- DESIGN_NEWS:END -->
 
 
