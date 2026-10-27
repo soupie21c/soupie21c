@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [인간 UX의 맥락적 이점](https://uxdesign.cc/the-context-advantage-of-human-ux-design-thinking-39883603c337?source=rss----138adf9c44c---4) · UX Collective · 2026-10-25
-- [아무도 스파클 버튼을 요청하지 않았습니다](https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6?source=rss----138adf9c44c---4) · UX Collective · 2026-10-25
-- [AI가 전문 사용자에게 도달하기 전에 선을 그을 곳](https://uxdesign.cc/where-to-draw-the-line-before-ai-reaches-professional-users-09d61f61b2b5?source=rss----138adf9c44c---4) · UX Collective · 2026-10-25
+- [AI 지원 설계 시스템 라이브러리 구축: MCP를 사용한 코드 → Figma.](https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2?source=rss----138adf9c44c---4) · UX Collective · 2026-10-26
+- [Apple의 HomeView는 노력을 줄이거나 우리의 관심을 요청합니까?](https://uxdesign.cc/does-apples-homeview-reduce-effort-or-ask-for-our-attention-ad7e892d17e2?source=rss----138adf9c44c---4) · UX Collective · 2026-10-26
+- [누가 미래의 이름을 지을 수 있을까요?](https://uxdesign.cc/who-gets-to-name-the-future-436d069f16af?source=rss----138adf9c44c---4) · UX Collective · 2026-10-26
 <!-- DESIGN_NEWS:END -->
 
 
