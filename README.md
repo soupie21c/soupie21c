@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
+- [AI가 디자이너를 구하는 시간은 대개 사라집니다. 보관 방법은 다음과 같습니다.](https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4) · UX Collective · 2026-10-27
+- [더 이상 빠르게 이동하지 않음](https://uxdesign.cc/going-nowhere-fast-7436dd29c54f?source=rss----138adf9c44c---4) · UX Collective · 2026-10-27
 - [AI 지원 설계 시스템 라이브러리 구축: MCP를 사용한 코드 → Figma.](https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2?source=rss----138adf9c44c---4) · UX Collective · 2026-10-26
-- [Apple의 HomeView는 노력을 줄이거나 우리의 관심을 요청합니까?](https://uxdesign.cc/does-apples-homeview-reduce-effort-or-ask-for-our-attention-ad7e892d17e2?source=rss----138adf9c44c---4) · UX Collective · 2026-10-26
-- [누가 미래의 이름을 지을 수 있을까요?](https://uxdesign.cc/who-gets-to-name-the-future-436d069f16af?source=rss----138adf9c44c---4) · UX Collective · 2026-10-26
 <!-- DESIGN_NEWS:END -->
 
 
