@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [AI가 디자이너를 구하는 시간은 대개 사라집니다. 보관 방법은 다음과 같습니다.](https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4) · UX Collective · 2026-10-27
-- [더 이상 빠르게 이동하지 않음](https://uxdesign.cc/going-nowhere-fast-7436dd29c54f?source=rss----138adf9c44c---4) · UX Collective · 2026-10-27
-- [AI 지원 설계 시스템 라이브러리 구축: MCP를 사용한 코드 → Figma.](https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2?source=rss----138adf9c44c---4) · UX Collective · 2026-10-26
+- [AI를 두려워하는 것을 멈추고 풀타임으로 AI를 연구하기 시작한 방법](https://uxdesign.cc/how-i-stopped-dreading-ai-and-started-studying-it-full-time-fee7afc2b967?source=rss----138adf9c44c---4) · UX Collective · 2026-10-28
+- [AI 심층 연구를 위한 설계: Google, Perplexity 및 Microsoft의 교훈](https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4) · UX Collective · 2026-10-28
+- [UX에서의 AI 계산은 20년 동안](https://uxdesign.cc/the-ai-reckoning-in-ux-was-20-years-in-the-making-ecd7e36185de?source=rss----138adf9c44c---4) · UX Collective · 2026-10-28
 <!-- DESIGN_NEWS:END -->
 
 
