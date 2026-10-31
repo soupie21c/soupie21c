@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
+- [AI를 사용하는 사람들은 AI의 전략을 설정해야 합니다.](https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94?source=rss----138adf9c44c---4) · UX Collective · 2026-10-30
 - [AI를 두려워하는 것을 멈추고 풀타임으로 AI를 연구하기 시작한 방법](https://uxdesign.cc/how-i-stopped-dreading-ai-and-started-studying-it-full-time-fee7afc2b967?source=rss----138adf9c44c---4) · UX Collective · 2026-10-28
-- [AI 심층 연구를 위한 설계: Google, Perplexity 및 Microsoft의 교훈](https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4) · UX Collective · 2026-10-28
-- [UX에서의 AI 계산은 20년 동안](https://uxdesign.cc/the-ai-reckoning-in-ux-was-20-years-in-the-making-ecd7e36185de?source=rss----138adf9c44c---4) · UX Collective · 2026-10-28
+- [챗봇을 넘어서: 심층 AI 연구를 위한 UX](https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4) · UX Collective · 2026-10-28
 <!-- DESIGN_NEWS:END -->
 
 
