@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [색상이 지나가지만 팔레트가 실패할 때](https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d?source=rss----138adf9c44c---4) · UX Collective · 2026-11-01
-- [투명한 AI 비용 관리 설계 방법](https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104?source=rss----138adf9c44c---4) · UX Collective · 2026-11-01
-- [컨텍스트는 새로운 인터페이스입니다](https://uxdesign.cc/context-is-the-new-interface-c16b7f6e77be?source=rss----138adf9c44c---4) · UX Collective · 2026-11-01
+- [시스템 상태](https://uxdesign.cc/state-of-a-system-5c8473db1e9?source=rss----138adf9c44c---4) · UX Collective · 2026-11-02
+- [일상적인 인터페이스 디자인에서의 덕행 윤리](https://uxdesign.cc/virtue-ethics-in-everyday-interface-design-5f2aca841781?source=rss----138adf9c44c---4) · UX Collective · 2026-11-02
+- [반짝임 버튼, 디자인에 의한 자율성, UX에서의 AI 계산, MCP가 있는 Figma](https://uxdesign.cc/sparkle-buttons-autonomy-by-design-ai-reckoning-in-ux-figma-with-mcp-c93e38fa36e3?source=rss----138adf9c44c---4) · UX Collective · 2026-11-02
 <!-- DESIGN_NEWS:END -->
 
 
