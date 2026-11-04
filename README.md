@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [시스템 상태](https://uxdesign.cc/state-of-a-system-5c8473db1e9?source=rss----138adf9c44c---4) · UX Collective · 2026-11-02
-- [일상적인 인터페이스 디자인에서의 덕행 윤리](https://uxdesign.cc/virtue-ethics-in-everyday-interface-design-5f2aca841781?source=rss----138adf9c44c---4) · UX Collective · 2026-11-02
-- [반짝임 버튼, 디자인에 의한 자율성, UX에서의 AI 계산, MCP가 있는 Figma](https://uxdesign.cc/sparkle-buttons-autonomy-by-design-ai-reckoning-in-ux-figma-with-mcp-c93e38fa36e3?source=rss----138adf9c44c---4) · UX Collective · 2026-11-02
+- [Everyone is building AI agents. Who’s designing the stop button?](https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c?source=rss----138adf9c44c---4) · UX Collective · 2026-11-03
+- [I let AI build. I don’t let AI decide.](https://uxdesign.cc/i-let-ai-build-i-dont-let-ai-decide-b3892a87feb3?source=rss----138adf9c44c---4) · UX Collective · 2026-11-03
+- [What do you do when a design solution is already pre-built?](https://uxdesign.cc/what-do-you-do-when-a-design-solution-is-already-pre-built-85d20edba31f?source=rss----138adf9c44c---4) · UX Collective · 2026-11-03
 <!-- DESIGN_NEWS:END -->
 
 
