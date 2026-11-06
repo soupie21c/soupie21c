@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
+- [숫자로 디자인하기: AI가 UX를 망치고 있습니까, 아니면 가솔린을 불에 붓고 있습니까?](https://uxdesign.cc/design-by-numbers-is-ai-ruining-ux-or-just-pouring-gasoline-on-the-fire-24164d49e422?source=rss----138adf9c44c---4) · UX Collective · 2026-11-05
+- [누구나 간단한 질문을 할 수 있습니다.](https://uxdesign.cc/everyones-got-a-quick-question-374a736ff7cb?source=rss----138adf9c44c---4) · UX Collective · 2026-11-05
 - [당황하고 침착하며 확실한 승리의 세계에서](https://uxdesign.cc/in-a-world-of-panic-calm-and-certainty-win-525c17dd927f?source=rss----138adf9c44c---4) · UX Collective · 2026-11-04
-- [AI는 인터페이스를 생성할 수 있습니다. 신경 써야 할 가치가 있는 이유는 무엇인가요?](https://uxdesign.cc/ai-can-generate-the-interface-what-makes-it-worth-caring-about-a5f3a3e81986?source=rss----138adf9c44c---4) · UX Collective · 2026-11-04
-- [디자인 시스템에서 AI가 변화한 것, 그리고 여전히 우리에게 달려있는 것](https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2?source=rss----138adf9c44c---4) · UX Collective · 2026-11-04
 <!-- DESIGN_NEWS:END -->
 
 
