@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
+- [그렇지 않으면 당신은 단지 기계일 뿐입니다.](https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5?source=rss----138adf9c44c---4) · UX Collective · 2026-11-07
 - [AI 버블 이후: 선언문](https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662?source=rss----138adf9c44c---4) · UX Collective · 2026-11-06
 - [사내 UX 사용자를 위한 새로운 커뮤니티](https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/) · Smashing Magazine · 2026-11-06
-- [Berrypicking은 AI의 세계에서도 여전히 검색에 대한 단일 답변을 능가합니다.](https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500?source=rss----138adf9c44c---4) · UX Collective · 2026-11-06
 <!-- DESIGN_NEWS:END -->
 
 
