@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [그렇지 않으면 당신은 단지 기계일 뿐입니다.](https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5?source=rss----138adf9c44c---4) · UX Collective · 2026-11-07
-- [AI 버블 이후: 선언문](https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662?source=rss----138adf9c44c---4) · UX Collective · 2026-11-06
-- [사내 UX 사용자를 위한 새로운 커뮤니티](https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/) · Smashing Magazine · 2026-11-06
+- [숫자로 디자인하기, AI 프로토타이핑 가르치기, 컨텍스트는 새로운 UI](https://uxdesign.cc/design-by-numbers-teaching-ai-prototyping-context-is-the-new-ui-c88a432a8df8?source=rss----138adf9c44c---4) · UX Collective · 2026-11-09
+- [눈금자가 버린 것](https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85?source=rss----138adf9c44c---4) · UX Collective · 2026-11-09
+- [다섯 쌍의 손: 조판사가 디자이너에게 AI에 대해 가르칠 수 있는 것](https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285?source=rss----138adf9c44c---4) · UX Collective · 2026-11-09
 <!-- DESIGN_NEWS:END -->
 
 
