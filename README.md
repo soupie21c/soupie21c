@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [숫자로 디자인하기, AI 프로토타이핑 가르치기, 컨텍스트는 새로운 UI](https://uxdesign.cc/design-by-numbers-teaching-ai-prototyping-context-is-the-new-ui-c88a432a8df8?source=rss----138adf9c44c---4) · UX Collective · 2026-11-09
-- [눈금자가 버린 것](https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85?source=rss----138adf9c44c---4) · UX Collective · 2026-11-09
-- [다섯 쌍의 손: 조판사가 디자이너에게 AI에 대해 가르칠 수 있는 것](https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285?source=rss----138adf9c44c---4) · UX Collective · 2026-11-09
+- [설계 시스템 내부의 AI 프로토타입 제작. 디자인 및 제품 팀을 위한 실습 가이드.](https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4) · UX Collective · 2026-11-10
+- [신입생이 디자이너로서 설득에 대해 가르쳐 준 것](https://uxdesign.cc/what-being-the-new-kid-taught-me-about-persuasion-as-a-designer-c731818f91d9?source=rss----138adf9c44c---4) · UX Collective · 2026-11-10
+- [모든 새로운 매체는 부정행위라고 불립니다](https://uxdesign.cc/every-new-medium-gets-called-cheating-b990d7d53c0e?source=rss----138adf9c44c---4) · UX Collective · 2026-11-10
 <!-- DESIGN_NEWS:END -->
 
 
