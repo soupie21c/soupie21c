@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [설계 시스템 내부의 AI 프로토타입 제작. 디자인 및 제품 팀을 위한 실습 가이드.](https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4) · UX Collective · 2026-11-10
-- [신입생이 디자이너로서 설득에 대해 가르쳐 준 것](https://uxdesign.cc/what-being-the-new-kid-taught-me-about-persuasion-as-a-designer-c731818f91d9?source=rss----138adf9c44c---4) · UX Collective · 2026-11-10
-- [모든 새로운 매체는 부정행위라고 불립니다](https://uxdesign.cc/every-new-medium-gets-called-cheating-b990d7d53c0e?source=rss----138adf9c44c---4) · UX Collective · 2026-11-10
+- [왜 포토샵을 복제하나요?](https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7?source=rss----138adf9c44c---4) · UX Collective · 2026-11-11
+- [이제 모든 클릭에는 가격이 매겨집니다. 그 '느낌'을 누가 설계하나요?](https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8?source=rss----138adf9c44c---4) · UX Collective · 2026-11-11
+- [모든 디자이너를 화나게 하는 욕실의 결함](https://uxdesign.cc/the-bathroom-flaws-that-infuriate-every-designer-a26d50145d47?source=rss----138adf9c44c---4) · UX Collective · 2026-11-11
 <!-- DESIGN_NEWS:END -->
 
 
