@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [왜 포토샵을 복제하나요?](https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7?source=rss----138adf9c44c---4) · UX Collective · 2026-11-11
-- [이제 모든 클릭에는 가격이 매겨집니다. 그 '느낌'을 누가 설계하나요?](https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8?source=rss----138adf9c44c---4) · UX Collective · 2026-11-11
-- [모든 디자이너를 화나게 하는 욕실의 결함](https://uxdesign.cc/the-bathroom-flaws-that-infuriate-every-designer-a26d50145d47?source=rss----138adf9c44c---4) · UX Collective · 2026-11-11
+- [AI는 새로우면서도 오래된 디자인 소재입니다.](https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4) · UX Collective · 2026-11-13
+- [AI를 가장 잘 사용하는 사람들에게 영향을 미치는 AI 마인드 세금](https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0?source=rss----138adf9c44c---4) · UX Collective · 2026-11-12
+- [정말로 여기에 AI를 추가해야 할까요? 제품 팀을 위한 4가지 질문 감사](https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/) · Smashing Magazine · 2026-11-12
 <!-- DESIGN_NEWS:END -->
 
 
