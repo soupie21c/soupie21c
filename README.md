@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [AI는 새로우면서도 오래된 디자인 소재입니다.](https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4) · UX Collective · 2026-11-13
-- [AI를 가장 잘 사용하는 사람들에게 영향을 미치는 AI 마인드 세금](https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0?source=rss----138adf9c44c---4) · UX Collective · 2026-11-12
-- [정말로 여기에 AI를 추가해야 할까요? 제품 팀을 위한 4가지 질문 감사](https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/) · Smashing Magazine · 2026-11-12
+- [의사 결정 시뮬레이션 또는 의사 결정 설계?](https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4) · UX Collective · 2026-11-13
+- [슈뢰딩거의 황: 엔비디아는 모든 사람에게 모든 것이 될 수 없었습니다.](https://uxdesign.cc/schr%C3%B6dingers-huang-d1da36bff88c?source=rss----138adf9c44c---4) · UX Collective · 2026-11-13
+- [알고리즘보다 더 인간적인 느낌을 주는 비뚤어진 접시](https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147?source=rss----138adf9c44c---4) · UX Collective · 2026-11-13
 <!-- DESIGN_NEWS:END -->
 
 
