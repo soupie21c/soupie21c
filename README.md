@@ -23,7 +23,7 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [의사 결정 극장(Decision Theatre) 또는 의사 결정 설계(Decision Design)?](https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4) · UX Collective · 2026-11-13
+- [의사 결정 시뮬레이션 또는 의사 결정 설계?](https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4) · UX Collective · 2026-11-13
 - [슈뢰딩거의 황: 엔비디아는 모든 사람에게 모든 것이 될 수 없었다](https://uxdesign.cc/schr%C3%B6dingers-huang-d1da36bff88c?source=rss----138adf9c44c---4) · UX Collective · 2026-11-13
 - [알고리즘보다 더 인간적이라고 느껴졌던 비뚤어진 접시](https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147?source=rss----138adf9c44c---4) · UX Collective · 2026-11-13
 <!-- DESIGN_NEWS:END -->
