@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [의사 결정 시뮬레이션 또는 의사 결정 설계?](https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4) · UX Collective · 2026-11-13
-- [슈뢰딩거의 황: 엔비디아는 모든 사람에게 모든 것이 될 수 없었다](https://uxdesign.cc/schr%C3%B6dingers-huang-d1da36bff88c?source=rss----138adf9c44c---4) · UX Collective · 2026-11-13
-- [알고리즘보다 더 인간적이라고 느껴졌던 비뚤어진 접시](https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147?source=rss----138adf9c44c---4) · UX Collective · 2026-11-13
+- [굳이 소프트웨어에 돈을 지불할 필요가 있을까요?](https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4) · UX Collective · 2026-11-16
+- [UI 예외 케이스: 참조 가이드](https://uxdesign.cc/ui-edge-cases-a-reference-guide-e778061588ef?source=rss----138adf9c44c---4) · UX Collective · 2026-11-16
+- [Wrapped, Schrödinger’s Nvidia, Infinite 토큰을 발송하기 전에](https://uxdesign.cc/before-you-ship-your-wrapped-schr%C3%B6dingers-nvidia-infinite-tokens-64a9160bd2eb?source=rss----138adf9c44c---4) · UX Collective · 2026-11-16
 <!-- DESIGN_NEWS:END -->
 
 
