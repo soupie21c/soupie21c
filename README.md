@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [굳이 소프트웨어에 돈을 지불할 필요가 있을까요?](https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4) · UX Collective · 2026-11-16
-- [UI 예외 케이스: 참조 가이드](https://uxdesign.cc/ui-edge-cases-a-reference-guide-e778061588ef?source=rss----138adf9c44c---4) · UX Collective · 2026-11-16
-- [Wrapped, Schrödinger’s Nvidia, Infinite 토큰을 발송하기 전에](https://uxdesign.cc/before-you-ship-your-wrapped-schr%C3%B6dingers-nvidia-infinite-tokens-64a9160bd2eb?source=rss----138adf9c44c---4) · UX Collective · 2026-11-16
+- [연구자의 가치는 무엇인가요?](https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12?source=rss----138adf9c44c---4) · UX Collective · 2026-11-17
+- [모두가 반짝이는 별이 AI를 의미한다는 것을 알고 있습니다. 디자인 감사를 더 쉽게 하려면 스파클을 사용하세요.](https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11?source=rss----138adf9c44c---4) · UX Collective · 2026-11-17
+- [AI가 빌드를 가속화했습니다. 접근성 테스트는 어떻게 따라잡을 수 있을까요?](https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/) · Smashing Magazine · 2026-11-17
 <!-- DESIGN_NEWS:END -->
 
 
