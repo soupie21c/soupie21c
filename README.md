@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
+- [AI가 어디서나 작동한다면, 왜 우리는 그것을 보기 위해 출퇴근해야 할까요?](https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86?source=rss----138adf9c44c---4) · UX Collective · 2026-11-18
+- [너무 클로드화됨](https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c44c---4) · UX Collective · 2026-11-18
 - [연구자의 가치는 무엇인가요?](https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12?source=rss----138adf9c44c---4) · UX Collective · 2026-11-17
-- [모두가 반짝이는 별이 AI를 의미한다는 것을 알고 있습니다. 디자인 감사를 더 쉽게 하려면 스파클을 사용하세요.](https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11?source=rss----138adf9c44c---4) · UX Collective · 2026-11-17
-- [AI가 빌드를 가속화했습니다. 접근성 테스트는 어떻게 따라잡을 수 있을까요?](https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/) · Smashing Magazine · 2026-11-17
 <!-- DESIGN_NEWS:END -->
 
 
