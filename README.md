@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [누구나 도구를 가지고 있습니다. 모든 사람이 노하우를 갖고 있는 것은 아닙니다.](https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4) · UX Collective · 2026-11-19
+- [과거에는 판사가 사용자였습니다.](https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4) · UX Collective · 2026-11-21
+- [누구나 도구는 가지고 있습니다. 모든 사람이 노하우를 갖고 있는 것은 아닙니다.](https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4) · UX Collective · 2026-11-19
 - [소방관을 화재 현장으로 보내세요](https://uxdesign.cc/send-the-firefighters-to-the-fires-6cd7b1893ae7?source=rss----138adf9c44c---4) · UX Collective · 2026-11-19
-- [AI가 어디서나 작동한다면, 왜 우리는 그것을 보기 위해 출퇴근해야 할까요?](https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86?source=rss----138adf9c44c---4) · UX Collective · 2026-11-18
 <!-- DESIGN_NEWS:END -->
 
 
