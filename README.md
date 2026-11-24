@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [세인트 존 코-대성당 3D 스캔에서 얻은 교훈](https://uxdesign.cc/lessons-from-3d-scanning-st-johns-co-cathedral-700911d61cfe?source=rss----138adf9c44c---4) · UX Collective · 2026-11-22
-- [여러분이 생산성을 측정하는 동안 AI가 없앤 7가지](https://uxdesign.cc/seven-things-ai-killed-while-you-were-measuring-productivity-b4499232ac3d?source=rss----138adf9c44c---4) · UX Collective · 2026-11-22
-- [훌륭한 스킬을 작성하는 방법](https://uxdesign.cc/how-to-write-great-skills-91635bc45ada?source=rss----138adf9c44c---4) · UX Collective · 2026-11-22
+- [제품 디자인은 인력 중심 산업인가요, 아니면 기술 중심 산업인가요?](https://uxdesign.cc/is-product-design-a-people-industry-or-a-tech-industry-b8f9acc8cb6d?source=rss----138adf9c44c---4) · UX Collective · 2026-11-23
+- [읽지 않겠습니다.](https://uxdesign.cc/dont-make-me-read-a6821e418bb1?source=rss----138adf9c44c---4) · UX Collective · 2026-11-23
+- [의사결정 시뮬레이션, Human.MD, 연구자의 가치](https://uxdesign.cc/decision-theater-human-md-what-is-a-researchers-worth-d7687978bd26?source=rss----138adf9c44c---4) · UX Collective · 2026-11-23
 <!-- DESIGN_NEWS:END -->
 
 
