@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
-- [제품 디자인은 인력 중심 산업인가요, 아니면 기술 중심 산업인가요?](https://uxdesign.cc/is-product-design-a-people-industry-or-a-tech-industry-b8f9acc8cb6d?source=rss----138adf9c44c---4) · UX Collective · 2026-11-23
-- [읽지 않겠습니다.](https://uxdesign.cc/dont-make-me-read-a6821e418bb1?source=rss----138adf9c44c---4) · UX Collective · 2026-11-23
-- [의사결정 시뮬레이션, Human.MD, 연구자의 가치](https://uxdesign.cc/decision-theater-human-md-what-is-a-researchers-worth-d7687978bd26?source=rss----138adf9c44c---4) · UX Collective · 2026-11-23
+- [일상적인 디자인 실무로서의 미래 사고](https://uxdesign.cc/futures-thinking-as-an-everyday-design-practice-465146ee6db8?source=rss----138adf9c44c---4) · UX Collective · 2026-11-24
+- [효과적인 팀의 네 가지 숨겨진 차원](https://uxdesign.cc/four-hidden-dimensions-of-effective-teams-be268c61cf44?source=rss----138adf9c44c---4) · UX Collective · 2026-11-24
+- [시니어 디자이너를 넘어 성장하고 싶다면 이 한 가지를 해결해야 합니다.](https://uxdesign.cc/if-you-want-to-grow-beyond-senior-designer-you-have-to-address-this-one-thing-15f94ba5b1f7?source=rss----138adf9c44c---4) · UX Collective · 2026-11-24
 <!-- DESIGN_NEWS:END -->
 
 
