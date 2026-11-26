@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
+- [LinkedIn에서 하지 말아야 할 말](https://uxdesign.cc/things-youre-not-supposed-to-say-on-linkedin-a9c2ec2a0185?source=rss----138adf9c44c---4) · UX Collective · 2026-11-25
+- [미래 대비는 끝났고, AI가 그 원인입니다.](https://uxdesign.cc/future-proofing-is-dead-and-ai-killed-it-23368ce3cc02?source=rss----138adf9c44c---4) · UX Collective · 2026-11-25
 - [일상적인 디자인 실무로서의 미래 사고](https://uxdesign.cc/futures-thinking-as-an-everyday-design-practice-465146ee6db8?source=rss----138adf9c44c---4) · UX Collective · 2026-11-24
-- [효과적인 팀의 네 가지 숨겨진 차원](https://uxdesign.cc/four-hidden-dimensions-of-effective-teams-be268c61cf44?source=rss----138adf9c44c---4) · UX Collective · 2026-11-24
-- [시니어 디자이너를 넘어 성장하고 싶다면 이 한 가지를 해결해야 합니다.](https://uxdesign.cc/if-you-want-to-grow-beyond-senior-designer-you-have-to-address-this-one-thing-15f94ba5b1f7?source=rss----138adf9c44c---4) · UX Collective · 2026-11-24
 <!-- DESIGN_NEWS:END -->
 
 
