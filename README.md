@@ -23,9 +23,9 @@
 ### 오늘의 UI/UX 뉴스
 
 <!-- DESIGN_NEWS:START -->
+- [How I use AI as a solo designer](https://uxdesign.cc/how-do-i-use-ai-as-a-solo-designer-956a3954614e?source=rss----138adf9c44c---4) · UX Collective · 2026-11-27
 - [Machines are trying to get gut feelings while you’re telling me to ignore mine](https://uxdesign.cc/machines-are-trying-to-get-gut-feelings-while-youre-telling-me-to-ignore-mine-17095e56f22d?source=rss----138adf9c44c---4) · UX Collective · 2026-11-26
 - [Things you’re not supposed to say on LinkedIn](https://uxdesign.cc/things-youre-not-supposed-to-say-on-linkedin-a9c2ec2a0185?source=rss----138adf9c44c---4) · UX Collective · 2026-11-25
-- [Future-proofing is dead and AI killed it](https://uxdesign.cc/future-proofing-is-dead-and-ai-killed-it-23368ce3cc02?source=rss----138adf9c44c---4) · UX Collective · 2026-11-25
 <!-- DESIGN_NEWS:END -->
 
 
